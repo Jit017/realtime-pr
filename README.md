@@ -2,6 +2,10 @@
 
 A modern, responsive landing page for RealTimePR - a command-line tool for real-time code review and feedback.
 
+## 🌐 Live Demo
+
+Visit the live website: [https://realtime-pr.vercel.app/](https://realtime-pr.vercel.app/)
+
 ## Features
 
 - 🎨 Modern UI with dark/light mode support
@@ -20,6 +24,7 @@ A modern, responsive landing page for RealTimePR - a command-line tool for real-
 - [shadcn/ui](https://ui.shadcn.com/) - UI components
 - [Lucide Icons](https://lucide.dev/) - Icons
 - [next-themes](https://github.com/pacocoursey/next-themes) - Theme management
+- [Vercel](https://vercel.com) - Deployment platform
 
 ## Getting Started
 
@@ -51,6 +56,15 @@ pnpm dev
 - `npm run build` - Build for production
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
+
+## Deployment
+
+This project is deployed on Vercel. To deploy your own version:
+
+1. Fork this repository
+2. Create a new project on [Vercel](https://vercel.com)
+3. Import your forked repository
+4. Deploy!
 
 ## Contributing
 
